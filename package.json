@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "my-reusable-components",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "tsc && tailwindcss -o styles.css",
